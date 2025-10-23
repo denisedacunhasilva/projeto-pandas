@@ -1,1 +1,3 @@
-print("Hello, Pandas!")
+from registros import list_registros
+
+print(list_registros)
